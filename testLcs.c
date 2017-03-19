@@ -1,3 +1,5 @@
+//Tests whether a given sequence is a subsequence of another sequence or not.
+
 #include<stdio.h>
 #include<stdlib.h>
 
