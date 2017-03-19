@@ -1,0 +1,4 @@
+WAP to find the lcs between two sequences x and y having length m and n respectively.
+WAP to find optimal parenthesiation of matrix chain multiplication whose sequence of dimension is <30,35,15,5,10,20,25>.
+WAP to test whether a given sequence is a subsequence of another sequence or not.
+
