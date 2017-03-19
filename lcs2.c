@@ -1,3 +1,4 @@
+//Finds the LCS(Longest common subsequence) between two sequences x and y having length m and n respectively.
 #include<stdio.h>
 #include<stdlib.h>
 
